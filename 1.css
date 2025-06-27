@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(30, 30, 30);
+    color:            white;
+    margin-left:      40px;
+    font-size:        1.5rem;
+    font-family:      georgia;
+}
+ea{
+    color:            yellow;
+}
+b{
+    color:            yellow;
+}
+c{
+    color:            #00adff;
+}
+d{
+    color:            orange;
+}
+#emma{
+    line-height:      1.9em;
+    border-color:     white;
+    border-width:     1px;
+    border-style:     solid;
+    padding:          5px;
+    margin-right:     330px;
+    margin-left:      10px;
+    width:            450px;
+    font-size:        1rem;
+}
+#emm{
+    line-height:      1.9em;
+    border-color:     white;
+    border-width:     1px;
+    border-style:     solid;
+    padding:          2px;
+    margin-right:     300px;
+    margin-left:      10px;
+    width:            530px;
+    font-size:        1rem;
+    font-weight:      normal;
+}
+#emmi{
+    line-height:      1.9em;
+    border-color:     white;
+    border-width:     1px;
+    border-style:     solid;
+    background-color: black;
+    padding:          10px;
+    margin-right:     350px;
+    margin-left:      30px;
+    font-size:        0.7rem;
+}
